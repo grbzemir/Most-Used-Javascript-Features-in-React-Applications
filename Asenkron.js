@@ -43,3 +43,4 @@ async function ulkeGetir() {
 ulkeGetir();
 
 //Repos
+//Eyg
